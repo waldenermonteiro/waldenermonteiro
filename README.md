@@ -4,7 +4,7 @@
   <samp>
     I'm Waldener Monteiro :wave:
     <br><br>
-    I work as Front-End Developer :globe_with_meridians: developer!
+    I work as Front-End Developer :globe_with_meridians:!
     <br><br>
     I believe in a world where Milkshakes can solve any and all problems :grin:
     <br><br>
