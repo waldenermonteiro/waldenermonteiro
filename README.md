@@ -11,7 +11,6 @@
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waldenermonteiro&repo=service-mixin-vue)](https://github.com/waldenermonteiro/service-mixin-vue)
 <br>
 
 <details>
@@ -21,7 +20,7 @@
   
 
 ---
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=waldenermonteiro&repo=service-mixin-vue)](https://github.com/waldenermonteiro/service-mixin-vue)
 ### - Languages and Tools...
 
 <p align="center">
