@@ -20,7 +20,6 @@
   
 
 ---
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=thepracticaldev&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
 ### - Languages and Tools...
 
 <p align="center">
