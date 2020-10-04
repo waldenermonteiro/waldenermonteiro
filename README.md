@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/waldener-monteiro-158842179/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" width="100px" ></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/juniormonteirooo"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
+  <a href="https://www.instagram.com/juniormonteirooo"><img src=https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/instagram.svg" width="100px"></a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+5591981145974"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" width="100px"></a> &nbsp; &nbsp;
   <a href="https://t.me/waldenermonteiro"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 </p>
