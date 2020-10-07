@@ -12,7 +12,6 @@
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
-<br>
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
