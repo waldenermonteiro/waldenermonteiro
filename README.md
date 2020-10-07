@@ -4,11 +4,11 @@
   <br><br>
   <samp>
     I'm Waldener Monteiro :wave:
-    <br><br>
+    <br>
     I work as Front-End Developer :globe_with_meridians:!
-    <br><br>
+    <br>
     I believe in a world where Milkshakes can solve any and all problems :grin:
-    <br><br>
+    <br>
     P.S. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
