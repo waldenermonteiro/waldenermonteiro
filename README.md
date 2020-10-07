@@ -15,7 +15,7 @@
 
 <details>
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
----
+
 ### - Languages and Tools...
 
 <p align="center">
@@ -27,8 +27,6 @@
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-
----
 
 </p>
 
