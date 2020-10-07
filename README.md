@@ -13,9 +13,6 @@
   </samp>
 </p>
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-
 ### - Languages and Tools...
 
 <p align="center">
@@ -36,10 +33,6 @@
 - Learning React with Redux.
 - Learning about UX.
 - Adding databases to my skill set.
-
----
-
-</details>
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
