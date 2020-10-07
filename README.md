@@ -16,7 +16,6 @@
 ### - Languages and Tools...
 
 <p align="center">
-
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
@@ -28,7 +27,6 @@
 </p>
 
 ### - I'm currently...
-
 - Improving my Html, Css skills.
 - Learning React with Redux.
 - Learning about UX.
@@ -48,8 +46,6 @@
 <p align="center">
   <i> Open to anything under the stars :sparkles: </i>
 </p>
-
-<br>
 
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:arrow_down:
