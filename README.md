@@ -48,6 +48,13 @@
 - Learning about UX.
 - Adding databases to my skill set.
 
+### Coding Activity
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=waldenermonteiro&show_icons=true&theme=dracula" alt="WaldenerMonteiro's github stats" />
+</p>
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
