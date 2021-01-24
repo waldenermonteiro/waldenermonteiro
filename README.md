@@ -44,9 +44,9 @@
 
 ### - I'm currently...
 - Improving my Html, Css skills.
-- Learning React with Redux.
 - Learning about UX.
 - Adding databases to my skill set.
+- Making projects for my portfolio.
 
 ### - Coding Activity
 
