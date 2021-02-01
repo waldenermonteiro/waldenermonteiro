@@ -13,7 +13,7 @@
   </samp>
 </p>
 
-### - Languages and Tools...
+### - Languages and Tools....
 
 <p>
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
