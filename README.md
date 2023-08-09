@@ -27,10 +27,13 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vuejs" title='Vuejs'/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter" title='Flutter'/></code>
 <code><img height="32" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="ReactNative" title='ReactNative'/></code>
+</p>
+
+### - SGBDs
+
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" title='MySQL' /></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL" title='PostegreSQL' /></code>
 
-</p>
 
 ### - Utilities
 
@@ -65,8 +68,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/waldener-monteiro-158842179/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" width="90px" ></a> &nbsp; &nbsp;
-  <a href="https://www.instagram.com/juniormonteirooo"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/instagram.svg" width="100px"></a> &nbsp; &nbsp;
-  <a href="https://api.whatsapp.com/send?phone=+5591981145974"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" width="100px"></a> &nbsp; &nbsp;
   <a href="https://t.me/waldenermonteiro"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/telegram.svg" width="90px"></a> &nbsp; &nbsp;
 </p>
 
