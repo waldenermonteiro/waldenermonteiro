@@ -68,7 +68,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/waldener-monteiro-158842179/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" width="90px" ></a> &nbsp; &nbsp;
-  <a href="https://t.me/waldenermonteiro"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/telegram.svg" width="90px"></a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
