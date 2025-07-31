@@ -44,7 +44,6 @@
 
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub" title='Github'/></code>
 <code><img height="32" src="https://www.justsoftware.com.br/assets/images/GitLab_Logo.svg.png" alt="Gitlab" title='Gitlab'/></code>
-<code><img height="32" src="https://seeklogo.com/images/A/app-center-logo-85CB106D3A-seeklogo.com.png" alt="AppcCenter" title='AppCenter'/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title='Docker'/></code>
 
 
